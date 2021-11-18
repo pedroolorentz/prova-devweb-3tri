@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Cueca boxer Minecraft (pacote com 3)",
+      "price": 19.90
+    },
+    {
+      "id": 2,
+      "name": "Genshin Blessing",
+      "price": 29.90
+    },
+    {
+      "id": 3,
+      "name": "Xiaomí Mi 10T Preto 128GB",
+      "price": 3200.00
+    }
+  ]
+}
